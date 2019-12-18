@@ -13,3 +13,7 @@ set autoindent
 set smartindent
 
 ```
+##### включить нумерацию строк
+```bash
+set nu
+```
