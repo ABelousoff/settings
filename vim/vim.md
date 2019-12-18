@@ -1,4 +1,5 @@
 [<<< назад](../README.md)
+---
 ## Настройки .vimrc
 ##### табуляция
 ```bash
@@ -17,3 +18,6 @@ set smartindent
 ```bash
 set nu
 ```
+
+---
+[<<< назад](../README.md)
