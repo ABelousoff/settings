@@ -1,3 +1,3 @@
 Hello, World!
 ---
-*[Настройки vim](./vim/vim.md)
+- [Настройки vim](./vim/vim.md)
