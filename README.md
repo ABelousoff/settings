@@ -4,3 +4,4 @@
 - [Настройки vim](./vim/vim.md)
 - [Установка программ](./GLBAL/install/program.md)
   - [Установка программ](./GLBAL/install/program.md)
+    - [Установка программ](./GLBAL/install/program.md)
