@@ -1,4 +1,4 @@
-[<<< назад](../README.md)
+[<<< назад](../../README.md)
 ***
 ## Инсталяция программ
 
@@ -7,4 +7,4 @@ CLion — IDE от JetBrains для С/С++
 sudo snap install clion --classic
 ```
 ---
-[<<< назад](../README.md)
+[<<< назад](../../README.md)
