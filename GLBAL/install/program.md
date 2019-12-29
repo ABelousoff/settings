@@ -6,6 +6,9 @@
 ```bash
 #CLion — IDE от JetBrains для С/С++
 sudo snap install clion --classic
+
+#Установить базовую поставку компилятор
+sudo apt install build-essential
 ```
 ---
 [<<< назад](../../README.md)
