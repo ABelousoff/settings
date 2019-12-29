@@ -2,8 +2,9 @@
 ***
 ## Инсталяция программ
 
-CLion — IDE от JetBrains для С/С++
+
 ```bash
+#CLion — IDE от JetBrains для С/С++
 sudo snap install clion --classic
 ```
 ---
