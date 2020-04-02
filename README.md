@@ -6,3 +6,4 @@
         - [:heart:Смайлики **_.md_**](https://github.com/GnuriaN/format-README/blob/master/emoji.md)
 - [Настройки vim](./GLBAL/vim/vim.md)
 - [Установка программ](./GLBAL/install/program.md)
+- [Фишки компиляции](./GLBAL/install/program.md)
