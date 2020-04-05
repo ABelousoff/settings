@@ -10,5 +10,11 @@ sudo snap install clion --classic
 #Установить базовую поставку компилятора
 sudo apt install build-essential
 ```
+
+## Некоторые команды bash
+```bash
+#распаковать tar.gz архив
+ar xvzf archive.tar.gz
+```
 ---
 [<<< назад](../../README.md)
