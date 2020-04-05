@@ -14,7 +14,7 @@ sudo apt install build-essential
 ## Некоторые команды bash
 ```bash
 #распаковать tar.gz архив
-ar xvzf archive.tar.gz
+tar xvzf archive.tar.gz
 ```
 ---
 [<<< назад](../../README.md)
