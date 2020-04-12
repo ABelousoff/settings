@@ -26,6 +26,7 @@ g++ -lglut -lGL -lGLU -lGLEW source.cpp
 ```c++
 //Подключение заголовочного файла:
 #include <GL/freeglut.h>
+#include <GL/glut.h>
 ```
 ---
 [<<< назад](../../README.md)
