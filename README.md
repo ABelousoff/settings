@@ -8,3 +8,4 @@
 - [Настройки vim](./GLBAL/vim/vim.md)
 - [Установка программ, команды](./GLBAL/install/program.md)
 - [Фишки компиляции](./GLBAL/install/program.md)
+123
